@@ -10,6 +10,8 @@ const advices = {
         'Je cherche une AMAP proche de chez moi !',
         'Je mange moins de viande !',
         'Je donne au lieu de jeter !',
+        'Je loue au lieu d\'acheter !',
+        'Je privilégie les achats d\'occasion !'
     ],
     'en': [
         'I buy only what I really need!',
@@ -19,7 +21,8 @@ const advices = {
         'I take a bike instead of the car for short distances!',
         'I don\'t buy products that create waste!',
         'I eat local products!',
-        'I eat less meat!'
+        'I eat less meat!',
+        'I favor second hand products!'
     ],
 };
 
